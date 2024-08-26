@@ -1,5 +1,3 @@
-Certainly! Here's a properly formatted `README.md` file that you can copy and paste into your GitHub repository:
-
 # VBA Automation
 
 ## Overview
